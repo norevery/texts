@@ -1,0 +1,70 @@
+# Set theme
+remote_theme: daviddarnes/alembic@main
+
+# File excludes
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Set plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
+
+# Site settings
+url: 'https://mydomain.com'
+baseurl:
+title: NOREVERY
+description:
+permalink: pretty
+logo: "/assets/logo.jpeg"
+
+# Pagination
+paginate: 5
+paginate_path: texts/page:num
+
+# Header nav
+navigation_header:
+  - title: Тексти
+    url: /texts
+
+# Footer nav
+navigation_footer:
+  - title:
+
+# Collections
+collections:
+  posts:
+    title:
+    logo: "/assets/logo.jpeg"
+    output: true
+    description:
+    feature_text:
+    feature_image:
+
+# Collection settings
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "poems"
+    values:
+      layout: post
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: page
