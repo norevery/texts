@@ -32,15 +32,6 @@ logo: "/assets/logo.jpeg"
 paginate: 5
 paginate_path: texts/page:num
 
-# Header nav
-navigation_header:
-  - title: Тексти
-    url: /texts
-
-# Footer nav
-navigation_footer:
-  - title:
-
 # Collections
 collections:
   posts:
@@ -56,11 +47,6 @@ defaults:
   - scope:
       path: ""
       type: "posts"
-    values:
-      layout: post
-  - scope:
-      path: ""
-      type: "poems"
     values:
       layout: post
   - scope:
