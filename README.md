@@ -1,2 +1,2 @@
-# norevery-blog
+# just some texts
 
