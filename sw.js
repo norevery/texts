@@ -1,8 +1,8 @@
-const version = '20250611220145';
+const version = '20250613005550';
 const cacheName = `static::${version}`;
 
 const buildContentBlob = () => {
-  return ["/2022/02/10/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/","/2022/01/06/%D0%BA%D0%BB%D1%83%D0%B1%D0%BE%D0%BA-%D1%96%D0%B7-%D0%BD%D0%B8%D1%82%D0%BE%D0%BA/","/2021/12/28/%D1%81%D1%96%D0%BC-%D0%B7%D0%BE%D1%88%D0%B8%D1%82%D1%96%D0%B2/","/2021/11/27/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F/","/2021/11/14/%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B0/","/2021/11/04/%D1%82%D0%B0%D0%B9%D0%BC%D1%81%D1%82%D0%B5%D0%BC%D0%BF/","/2021/10/14/%D0%B6%D0%BE%D0%B2%D1%82%D0%B5%D0%BD%D1%8C/","/2021/07/27/%D0%BF%D1%80%D0%BE-%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA/","/2021/07/07/%D0%BC%D1%96%D1%81%D1%82%D0%BE-%D1%81%D0%BE%D0%BD%D1%86%D1%8F/","/2021/06/24/goldilocks-conditions/","/texts/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/texts/page2/","/texts/page3/","/feed.xml","/assets/logo.jpeg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+  return ["/2022/04/10/%D0%BB%D1%8E%D0%B4%D0%B8/","/2022/04/10/hey-hey-rise-up/","/2022/03/31/%D0%B3%D0%BE%D1%80%D0%B8/","/2022/03/24/%D0%B1%D0%B0%D1%82%D0%BE%D0%BD%D1%87%D0%B8%D0%BA/","/2022/02/10/%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%B5-%D0%BF%D0%B8%D1%81%D1%8C%D0%BC%D0%BE/","/2022/01/06/%D0%BA%D0%BB%D1%83%D0%B1%D0%BE%D0%BA-%D1%96%D0%B7-%D0%BD%D0%B8%D1%82%D0%BE%D0%BA/","/2021/12/28/%D1%81%D1%96%D0%BC-%D0%B7%D0%BE%D1%88%D0%B8%D1%82%D1%96%D0%B2/","/2021/11/27/%D0%B4%D0%B5%D0%BD%D1%8C-%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F/","/2021/11/14/%D0%B1%D0%B5%D1%80%D0%B5%D0%B7%D0%B0/","/2021/11/04/%D1%82%D0%B0%D0%B9%D0%BC%D1%81%D1%82%D0%B5%D0%BC%D0%BF/","/texts/","/","/manifest.json","/assets/search.json","/assets/styles.css","/redirects.json","/sitemap.xml","/robots.txt","/texts/page2/","/texts/page3/","/texts/page4/","/feed.xml","/assets/logo.jpeg", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
   ]
 }
 
